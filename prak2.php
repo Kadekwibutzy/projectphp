@@ -1,8 +1,8 @@
 <?php
 
 echo "<h2>Nilai Mahasiswa : </h2>";
-$nim = '2301010087';
-$nama = 'Ardane Machieous';
+$nim = '2301010156';
+$nama = 'kadek juli';
 $prodi = 'TI-MDI';
 $nilai = 100;
 
