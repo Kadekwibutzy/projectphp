@@ -43,11 +43,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ardane PHP</title>
+    <title>kadek juli</title>
 </head>
 <body>
 
-<h1>PRAKTEK PHP - PEMROGRAMAN WEB</h1>
+<h1>PRAKTEK PHP - PEMROGRAMAN WEB kadek juli</h1>
 
 <a href="prak1.php">Praktek 1</a><br>
 <a href="prak2.php">Praktek 2</a><br>
