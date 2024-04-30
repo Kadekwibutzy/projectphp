@@ -13,6 +13,8 @@
     echo "<hr>";
     include_once('kondisi3.php');
     echo "<hr>";
+    include_once('kondisi4.php');
+    echo "<hr>";
     include_once('perulangan1.php');
     echo "<hr>";
     include_once('perulangan2.php');
@@ -30,6 +32,8 @@
     include_once('array2.php');
     echo "<hr>";
     include_once('array3.php');
+    echo "<hr>";
+    include_once('form.php');
     echo "<hr>";
     include_once('function1.php');
     echo "<hr>";
@@ -55,6 +59,7 @@
 <a href="kondisi1.php">Kondisi 1</a><br>
 <a href="kondisi2.php">Kondisi 2</a><br>
 <a href="kondisi3.php">Kondisi 3</a><br>
+<a href="kondisi3.php">Kondisi 4</a><br>
 <a href="perulangan1.php">Perulangan 1</a><br>
 <a href="perulangan2.php">Perulangan 2</a><br>
 <a href="perulangan3.php">Perulangan 3</a><br>
@@ -66,6 +71,7 @@
 <a href="array3.php">Array 3</a><br>
 <a href="function1.php">Function 1</a><br>
 <a href="function2.php">Function 2</a><br>
+<a href="form.php">Form</a><br>
 
 </body>
 </html>
